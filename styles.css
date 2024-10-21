@@ -1,0 +1,23 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+h1 {
+    text-align: center;
+    font-style: oblique;
+    font-size: 5rem;
+
+}
+h3 {
+    text-align: center;
+    font-size: 2rem;
+    font-style: italic;
+}
+header {
+    background-color: cornsilk;
+}
+img {
+    border-radius: 25px;
+    width: 350px;
+    height: 300px;
+}
